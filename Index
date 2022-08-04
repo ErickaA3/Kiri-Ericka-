@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+
+
+ <html> 
+
+    <head>
+
+        <meta charset = "utf-8">
+
+        <title>KIRI FOREST</title> 
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+
+        
+
+        <link rel="stylesheet" href="style.css">
+
+        <style>
+
+           
+
+        </style>
+
+    </head> 
+
+    
+
+    <body> 
+
+        <div class="container">
+
+            <nav class="nav-main">
+
+            <img src="kiri.jpg" alt="Kiri Forest LOGO" class="nav-brand">
+
+            
+
+                <li>
+
+                    <h1>Kiri Forest</h1>
+
+                </li>
+
+                
+
+            </ul>
+
+        </nav>
+
+                   
+
+        <hr>
+
+        <p>
+
+            <ol>
+
+            Somos una empresa con un enfoque social que propone a los dueños de terrenos y alianzas crear y mantener proyectos de reforestación, plantación forestal y conservación, según sus necesidades y proyección empresarial. El principal producto a utilizar es el árbol de Paulownia, es un árbol  con  el crecimiento más rápido del planeta lo que le permite obtener rendimientos comerciales a partir de los tres años, tiene una gran captación de CO2 absorbe hasta 12 veces más dioxido de carbono que otros árboles. En cuanto a los usos de la paulownia su madera es de alta calidad, se utiliza en mobiliario para barcos, cabañas sobre todo de baños y cocina. También es utilizada en fabricantes de molduras, puertas, saunas e instrumentos musicales, fabricantes de tablas de surf de campe rizadores y todos aquellos que emplean la madera en la decoración, entre muchos otros.  Poner en venta más especies de árboles nativas de Turrubares como son sota caballo, higuito, Uruca, manzana de agua, duraznillo, 
+
+        guabas, espavel, corteza amarilla , Cortez
+
+        negro , roble sabana, gallinazo. Con más especies de árboles y agregándole que son nativas nos es de ayuda para expandir nuestro publico meta y aumentar las ganancias.
+
+          </ol>
+
+        </p>
+
+          <ol>
+
+        <img src="si2.jpg" width = 200 height = 200 alt="Una imagen de Ericka">
+
+         </ol>
+
+        <p>
+
+            ¿Qué es la paulownia o kiri?
+
+            <ol>
+
+                El árbol de la Paulownia, es  originario de Asia, específicamente de los bosques templados de China y de Japón, conocidos por mucho como El árbol de Kiri, es multifuncional  capaz de captar el 50% de las emisiones de gas carbónico, ofrece madera en apenas nueve años, nutre la corteza y da sombra evitando la pérdida de ganado por altas temperaturas.Estos árboles pueden llegar a alcanzar los veinte metros de altura, sus hojas son de alta carga de nitrógeno, a su vez cuando estas hojas caen al suelo pueden aportar grandes nutrientes a la tierra y de esta manera permiten que crezcan otras plantas. Se puede adaptar a varios tipos de  climas, incluso con temperaturas extremas, la principal característica que lo diferencia del resto es la capacidad de hacer la fotosíntesis, este árbol puede consumir la cantidad más grande de CO2 y producir O2, debido a sus grandes hojas y particularidades metabólicas.
+
+            </ol>
+
+
+
+        </p>
+
+ 
+
+
+
+    </body> 
+
+</html>
